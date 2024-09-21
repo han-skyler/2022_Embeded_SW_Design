@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/board_icon.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/btn_parent_selc.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/btn_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/btn_round_green.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/ic_baseline_escalator_warning_24.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/ic_menu_camera.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/ic_menu_gallery.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/ic_menu_slideshow.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/logout_icon.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/outline_child_care_24.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/outline_family_restroom_24.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/outline_menu_24.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/outline_settings_24.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/right_icon.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13125" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_art.xml" value="0.2" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_draw.xml" value="0.152" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_eng.xml" value="0.1296875" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_kid.xml" value="0.264" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_kids.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_kor.xml" value="0.264" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_math.xml" value="0.1296875" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_parents.xml" value="0.264" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_resister.xml" value="0.536" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_select.xml" value="0.264" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_setting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/activity_student.xml" value="0.264" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_art.xml" value="0.1296875" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_eng.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_etc.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_kor.xml" value="0.4" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_main.xml" value="0.1296875" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_math.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/fragment_sin.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/header.xml" value="0.24974358974358973" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/listview_item.xml" value="0.4" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/pictureview.xml" value="0.1296875" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/layout/todo_item.xml" value="0.4" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/hanjiyun/androidstudio/app/EightClassFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13854166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

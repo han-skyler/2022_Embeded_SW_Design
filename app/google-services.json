@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211068993387",
+    "project_id": "eightclassfinal",
+    "storage_bucket": "eightclassfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211068993387:android:e1810764595cf182a7d62e",
+        "android_client_info": {
+          "package_name": "com.example.eightclassfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211068993387-n4r5jcvi3s6b8kvkouf22ot6gil9lstr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6JAWbRBSD8UGXDvjmb7J82cAv8xwNnrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211068993387-n4r5jcvi3s6b8kvkouf22ot6gil9lstr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
